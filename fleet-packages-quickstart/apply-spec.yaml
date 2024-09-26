@@ -1,0 +1,4 @@
+applySpecVersion: 1
+spec:
+  configSync:
+    enabled: true
